@@ -4,7 +4,7 @@
 📌 I’m currently working on an Expense Tracker (https://mindychxn.github.io/Expense-Tracker/)
 </p>
 <p align="center">
-  🌱 I’m currently learning <span><h4>React.js</h4></span>
+  🌱 I’m currently learning <strong>React.js</strong>
 </p>
 <p align="center">
 💻 Check out my personal website at (https://mindychxn.github.io/Mindy-Chen/](https://mindychxn.github.io/Mindy-Chen/)
