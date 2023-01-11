@@ -2,9 +2,11 @@
 <h3 align="center">I'm glad you're here!</h3>
 <p align="center">
 - 📌 I’m currently working on [an Expense Tracker](https://mindychxn.github.io/Expense-Tracker/)
-
+</p>
+<p align="center">
 - 🌱 I’m currently learning **React.js**
-
+</p>
+<p align="center">
 - 💻 Check out my personal website at [https://mindychxn.github.io/Mindy-Chen/](https://mindychxn.github.io/Mindy-Chen/)
 </p>
 <h3 align="center">Connect with me:</h3>
