@@ -8,7 +8,7 @@
   🌱 I’m currently learning <strong>React.js</strong>
 </p>
 <p align="center">
-💻 Check out my personal website at (https://mindychxn.github.io/Mindy-Chen/](https://mindychxn.github.io/Mindy-Chen/)
+💻 Check out my personal website at https://mindychxn.github.io/Mindy-Chen/
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
