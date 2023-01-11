@@ -4,10 +4,10 @@
 📌 I’m currently working on an Expense Tracker (https://mindychxn.github.io/Expense-Tracker/)
 </p>
 <p align="center">
-  🌱 I’m currently learning <span font-weight="700">React.js</span>
+  🌱 I’m currently learning React.js
 </p>
 <p align="center">
-💻 Check out my personal website at [https://mindychxn.github.io/Mindy-Chen/](https://mindychxn.github.io/Mindy-Chen/)
+💻 Check out my personal website at (https://mindychxn.github.io/Mindy-Chen/](https://mindychxn.github.io/Mindy-Chen/)
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
