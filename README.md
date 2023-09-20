@@ -2,7 +2,7 @@
 <h3 align="center">I'm glad you're here.</h3>
 <p align="center"><a href=#><img src="contributions.svg"></a> </p>
 <p align="center">
-💻 Check out my personal website at https://mindychxn.github.io/Mindy-Chen/
+💻 Check out my personal website at [https://mindychen.netlify.app/]
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
